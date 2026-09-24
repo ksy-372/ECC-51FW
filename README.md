@@ -23,3 +23,5 @@ print("hello World")
 ```
 
 [텍스트](https://velog.io/@ym0318/series/Do-it-%EA%B9%83%EA%B9%83%ED%97%88%EB%B8%8C, "블로그")
+
+![사과](./apple.jpg)
